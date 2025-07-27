@@ -1,6 +1,6 @@
 # Privacy Policy for Glyph Echo: A Word Puzzle
 
-**Effective Date:** July 27, 2025
+**Effective Date:** July 27, 2024 <!-- Uzupełnij właściwą datą -->
 
 ### 1. Introduction
 Wiktor Zawadzki ("I", "me", or "my") built the **Glyph Echo: A Word Puzzle** app (hereinafter "Service") as a free, ad-supported application. This Service is provided by me at no cost and is intended for use as is.
@@ -46,14 +46,22 @@ These third parties have access to your Personal Information to perform the task
 ### 6. Security
 I value your trust in providing me your Personal Information. I rely on the security measures of Google Cloud Platform and Firebase to protect your data. However, remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
-### 7. Children’s Privacy
+### 7. Data Retention
+I retain your personal information, such as your game progress, for as long as you maintain an account with our Service. If you request the deletion of your account, your data will be deleted in accordance with the process described in the "Your Data Protection Rights & Data Deletion" section.
+
+### 8. Children’s Privacy
 This Service does not knowingly address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. If I discover that a child under 13 has provided me with personal information, I will immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided me with personal information, please contact me so that I can take the necessary actions.
 
-### 8. Changes to This Privacy Policy
+### 9. Changes to This Privacy Policy
 I may update my Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted.
 
-### 9. Contact Us
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
+### 10. Your Data Protection Rights & Data Deletion
+Depending on your location, you may have certain rights regarding your personal information. These rights may include the right to access, correct, or delete your data.
+
+To request the deletion of your account and all associated personal data from our servers, you must contact me via the email address provided below. Upon receiving and confirming your request, I will process the deletion within a period of up to 30 days.
+
+### 11. Contact Us
+If you have any questions, suggestions, or requests regarding your data and this Privacy Policy, please do not hesitate to contact me.
 
 *   **Data Controller:** Wiktor Zawadzki
 *   **Email:** `contact.glyphecho@gmail.com`
