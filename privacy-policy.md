@@ -1,6 +1,6 @@
 # Privacy Policy for Glyph Echo: A Word Puzzle
 
-**Effective Date:** July 27, 2024 <!-- Uzupełnij właściwą datą -->
+**Effective Date:** August 10, 2024
 
 ### 1. Introduction
 Wiktor Zawadzki ("I", "me", or "my") built the **Glyph Echo: A Word Puzzle** app (hereinafter "Service") as a free, ad-supported application. This Service is provided by me at no cost and is intended for use as is.
@@ -58,7 +58,10 @@ I may update my Privacy Policy from time to time. Thus, you are advised to revie
 ### 10. Your Data Protection Rights & Data Deletion
 Depending on your location, you may have certain rights regarding your personal information. These rights may include the right to access, correct, or delete your data.
 
-To request the deletion of your account and all associated personal data from our servers, you must contact me via the email address provided below. Upon receiving and confirming your request, I will process the deletion within a period of up to 30 days.
+You have two ways to delete your account and all associated personal data from our servers:
+
+1.  **In-Game Deletion:** You can delete your account directly within the game's profile menu. This is the fastest and recommended method.
+2.  **Manual Request:** Alternatively, you can request the deletion by contacting me via the email address provided below. Upon receiving and confirming your request, I will process the deletion within a period of up to 30 days.
 
 ### 11. Contact Us
 If you have any questions, suggestions, or requests regarding your data and this Privacy Policy, please do not hesitate to contact me.
