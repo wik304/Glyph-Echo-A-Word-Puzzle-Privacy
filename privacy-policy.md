@@ -1,70 +1,130 @@
 # Privacy Policy for Glyph Echo: A Word Puzzle
 
-**Effective Date:** August 10, 2024
+**Effective Date:** September 27, 2025
 
-### 1. Introduction
-Wiktor Zawadzki ("I", "me", or "my") built the **Glyph Echo: A Word Puzzle** app (hereinafter "Service") as a free, ad-supported application. This Service is provided by me at no cost and is intended for use as is.
+## 1. Who We Are
+- App: “Glyph Echo: A Word Puzzle” (the “App” or “Service”)  
+- Data Controller (sole developer): **Wiktor Zawadzki**  
+- Contact: **contact.glyphecho@gmail.com**
 
-This privacy policy is used to inform you regarding my policies with the collection, use, and disclosure of Personal Information if anyone decides to use my Service.
+## 2. Scope
+This Privacy Policy explains what data I collect, how and why I process it, who I share it with, and your choices and rights. By using the App, you agree to the practices described here.
 
-By using the Service, you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+## 3. No Ads; In‑App Purchases Only
+- The App **does not display ads** and **does not use advertising networks** or advertising identifiers.
+- The App offers optional **in‑app purchases** processed by **Google Play Billing**. I do not receive or store payment card details. I only receive transaction status and the product identifier to grant purchased content (e.g., diamonds, packs, themes included in bundles).
+- Note for children: the option to purchase virtual currency (“diamonds”) is **not available** to users **under 13**.
 
-### 2. Information Collection and Use
-For a better experience while using our Service, I may require you to provide me with certain personally identifiable information. The types of information I collect and the purposes are explained below.
+### 3.1 Purchases & Restoration
+- **Non‑consumables** (e.g., themes, permanent unlocks) are **restored** by Google Play on the same Google account after reinstall/device change.  
+- **Consumables** (e.g., diamonds) are **not restored** by Google Play. If you uninstall the App, consumable balances stored locally may be lost.  
+- For **users under 13**, purchases of virtual currency are disabled; non‑consumable purchases (e.g., themes) can still be restored by Google Play.
 
-#### Information You Provide Directly
-When you choose to log in using your Google account to enable cloud save functionality, I collect the following information from your Google profile:
-*   **Name:** To personalize your experience.
-*   **Email Address:** To identify your account for the purpose of saving and retrieving game progress.
-*   **User ID:** A unique identifier provided by Google to manage your account.
+## 4. What Data I Collect and Why
 
-#### Information Collected Automatically
-The app uses third-party services that may automatically collect information to identify you and improve the Service. This includes:
-*   **Log and Usage Data:** Information about your interaction with the Service, such as session duration, levels completed, and feature usage.
-*   **Device Data:** Information about your mobile device, such as device model, operating system version, and unique device identifiers (including the Advertising ID).
-*   **Approximate Location Data:** Your approximate geographic location (e.g., country, city) is inferred from your IP address to provide relevant ads and for analytics purposes.
+### 4.1 Data You Provide Voluntarily
+- **Google Play Games sign‑in (optional)**  
+  I receive your Play Games profile identifier and display name. (I do not receive your Google account email address via this flow.)  
+  Purpose: cloud‑save sync (Saved Games), achievements, leaderboards.  
+  **Note for children:** users under 13 **cannot log in** using Google Play Games sign‑in.
 
-### 3. Third-Party Services
-The Service uses the following third-party services that may collect information from you. I encourage you to review their privacy policies.
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [Google AdMob](https://support.google.com/admob/answer/6128543)
-*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
-*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+- **Community level submissions (optional; Level Editor)**  
+  If you submit a level for review/publication, I store: the encoded level content, your Play Games ID (creatorId), display name (creatorName), a timestamp, moderation status, and basic level metadata (e.g., target score).  
+  Purpose: moderation, abuse prevention, and (if approved) publication.  
+  **Note for children:** community content uploads are **disabled** for users under 13.
 
-### 4. Use of Tracking Technologies
-This Service does not use traditional browser "cookies" explicitly. However, the app and its third-party services (like Google AdMob and Firebase Analytics) use mobile identifiers, such as the Android Advertising ID, to collect information. These identifiers function similarly to cookies, allowing for analytics and the delivery of personalized advertising. You can manage your advertising preferences and reset your Advertising ID in your device's settings.
+- **Contact by email (optional)**  
+  If you email me, I process your email address and the message content to respond and handle privacy/data requests.
 
-### 5. Service Providers
-I may employ third-party companies and individuals for the following reasons:
-*   To facilitate my Service (e.g., hosting game progress data).
-*   To provide the Service on my behalf.
-*   To perform Service-related services (e.g., serving advertisements).
-*   To assist me in analyzing how my Service is used.
+### 4.2 Data Collected Automatically
+- **Usage and diagnostics**  
+  Anonymous/aggregated events (e.g., sessions/screens) and crash logs.  
+  Providers: Firebase Analytics and Firebase Crashlytics.  
+  Purpose: stability, performance, and quality improvements.  
+  Child protection note: analytics are not used for ad personalization (no ads are served).
 
-These third parties have access to your Personal Information to perform the tasks assigned to them on my behalf. However, they are obligated not to disclose or use the information for any other purpose.
+- **Device information**  
+  OS version, device model, and technical identifiers used by analytics/crash reporting for stability and diagnostics. No advertising ID is used for ad serving (since there are no ads).
 
-### 6. Security
-I value your trust in providing me your Personal Information. I rely on the security measures of Google Cloud Platform and Firebase to protect your data. However, remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+### 4.3 Gameplay and Personalization Data
+- **Cloud saves (Google Play Games: Saved Games)**  
+  I store gameplay progress and preferences to sync across devices (e.g., highest unlocked level, selected and unlocked color themes, token balances—hints/skips/diamonds, daily challenge streak and (after completion) that day’s arrangement, rewards calendar status, your own level codes, and per‑level progress states).  
+  Purpose: reliable multi‑device sync and restore after reinstall.  
+  **Child protection note:** for users under 13, any saving other than local on‑device storage is **blocked**. If local data is lost, it **cannot be restored** by me.
 
-### 7. Data Retention
-I retain your personal information, such as your game progress, for as long as you maintain an account with our Service. If you request the deletion of your account, your data will be deleted in accordance with the process described in the "Your Data Protection Rights & Data Deletion" section.
+- **Local storage (SharedPreferences)**  
+  Similar data may also be stored locally to support offline play and reduce network latency.
 
-### 8. Children’s Privacy
-This Service does not knowingly address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. If I discover that a child under 13 has provided me with personal information, I will immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided me with personal information, please contact me so that I can take the necessary actions.
+### 4.4 Device Permissions
+- **Camera (optional)** — used only to scan QR codes for levels. Camera frames are not uploaded or stored by me.  
+  **Child protection note:** the QR feature may be restricted for users under 13.
 
-### 9. Changes to This Privacy Policy
-I may update my Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted.
+### 4.5 Age Gate & Local Profile Flag
+- On first run, the App asks for **age** to enable or disable certain features (e.g., sign‑in, community, currency purchases).  
+- The App stores a local **age/profile flag** (e.g., `user_age`) **only on your device** to enforce these restrictions. This flag is **not transmitted** to me.
 
-### 10. Your Data Protection Rights & Data Deletion
-Depending on your location, you may have certain rights regarding your personal information. These rights may include the right to access, correct, or delete your data.
+### 4.6 OS / Device Backup
+- Depending on your Android settings, the operating system (e.g., **Android Auto Backup / Google backup**) may back up local App data (such as settings and SharedPreferences) to your Google account and restore it on reinstall. This backup is controlled by the **OS**, not by me. You can manage or disable device backups in your system settings.
 
-You have two ways to delete your account and all associated personal data from our servers:
+## 5. Child Users (Under 13)
+- The App is suitable for and may be used by children under 13. The App is designed to minimize data collection and contains **no ads**.
+- For users under 13, optional social/community features (e.g., Play Games sign‑in, leaderboards, community level submissions) are **disabled**.
+- I do not knowingly collect personal information from children beyond what is necessary to operate the App (e.g., local saves and non‑personal analytics/crash diagnostics).
+- If you believe a child under 13 has provided personal information contrary to these measures, please contact me so I can remove it.
 
-1.  **In-Game Deletion:** You can delete your account directly within the game's profile menu. This is the fastest and recommended method.
-2.  **Manual Request:** Alternatively, you can request the deletion by contacting me via the email address provided below. Upon receiving and confirming your request, I will process the deletion within a period of up to 30 days.
+## 6. Legal Bases (EEA/UK)
+Depending on your region, I process data based on:
+- **Performance of a contract** (providing the core game and saving progress);
+- **Legitimate interests** (analytics, security, diagnostics, abuse prevention);
+- **Consent** (e.g., Play Games sign‑in, community submissions);
+- **Legal obligations** (where applicable).
 
-### 11. Contact Us
-If you have any questions, suggestions, or requests regarding your data and this Privacy Policy, please do not hesitate to contact me.
+## 7. Third‑Party Services and Policies
+- **Google Play Games Services** (Saved Games, Achievements, Leaderboards)  
+  https://www.google.com/policies/privacy/
+- **Google Play Billing**  
+  https://policies.google.com/privacy
+- **Firebase Analytics**  
+  https://firebase.google.com/policies/analytics
+- **Firebase Crashlytics**  
+  https://firebase.google.com/support/privacy
+- **Google Cloud Firestore** (community level queue)  
+  https://cloud.google.com/privacy
+- **Android OS Backup / Google backup** (device‑level backup/restore)  
+  https://support.google.com/android/answer/2819582
 
-*   **Data Controller:** Wiktor Zawadzki
-*   **Email:** `contact.glyphecho@gmail.com`
+## 8. Sharing and Recipients
+- **Service providers (processors)** — I share only what is necessary for them to operate on my behalf (see Section 7).
+- **Public authorities** — only when required by law.
+- **Aggregated/Anonymized data** — I may share aggregate statistics that do not identify individuals.
+
+## 9. Data Retention
+- **Cloud saves:** retained until you delete your account/save or per Google’s retention policies.  
+- **Analytics/crash data:** retained per provider defaults (e.g., Crashlytics commonly ~90 days; Analytics per configured window).  
+- **Community content:** retained until removal or moderation completes; approved content may remain public until withdrawn.  
+- **Local age/profile flag:** retained locally until you clear app data or uninstall.
+
+## 10. Your Choices and Rights
+Depending on your jurisdiction, you may have rights to:
+- access, obtain a copy of, correct, or delete your data;
+- restrict or object to processing; data portability;
+- withdraw consent for optional features—without affecting lawful processing before withdrawal;
+- lodge a complaint with your local data protection authority.
+
+## 11. How to Delete Your Data
+- **In‑App:** from the profile menu you can request deletion of your account/data (removing cloud saves and local data).  
+- **Email:** contact me at **contact.glyphecho@gmail.com** to request deletion; I will process your request within up to **30 days**. Due to provider backups, complete removal may take additional limited time per their policies.  
+- **Note:** community content already published may remain visible until withdrawn; on account deletion I can anonymize or remove it upon request.
+
+## 12. Security
+I rely on reputable infrastructure (Google Play Games, Firebase, Firestore) with encryption in transit and industry practices. However, no method of transmission or storage is 100% secure; I cannot guarantee absolute security.
+
+## 13. International Data Transfers
+Your data may be processed outside your country (e.g., EU/US). I rely on provider safeguards and contractual clauses intended to ensure an adequate level of protection.
+
+## 14. Changes to This Policy
+I may update this Policy from time to time. I will post updates in the App and/or on the website with a new effective date. For material changes, I may display an in‑App notice.
+
+## 15. Contact
+- Data Controller (sole developer): **Wiktor Zawadzki**  
+- Email: **contact.glyphecho@gmail.com**
